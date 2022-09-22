@@ -1,5 +1,5 @@
 - 😄 Hi! I’m @pinarbuyukcebeci
-- 🌱🤓 I’m currently a 1st year student at Bilkent CS Department
+- 🌱 I’m currently a 1st year student at Bilkent CS Department 🤓
 
 <!---
 pinarbuyukcebeci/pinarbuyukcebeci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
